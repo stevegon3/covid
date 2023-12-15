@@ -1,6 +1,6 @@
 # covid
 # Covid analysis for the VA (clean)
-A project of InfoCorps (International Data Corps DBA InfoCorps) EIN 82-2199430<p>
+A project of [InfoCorps](https://infocorps.org/) (International Data Corps DBA InfoCorps) EIN 82-2199430<p>
 This is an excerpt from the publicly available data (no VA nor private health data is included in this repository)<p>
 Apache License 2.0 must provide credit for use. Not for resale.<p>
 Legacy Notebook for North Carolina<p>
