@@ -1,0 +1,11 @@
+venv
+.idea
+.pgpass
+*.ini
+__pycache__
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+src/test/__pycache__
+.ipynb_checkpoints
